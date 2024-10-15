@@ -1,4 +1,4 @@
-step	type	amount	nameOrig	oldbalanceOrg	newbalanceOrig	nameDest	oldbalanceDest	newbalanceDest	isFraud	isFlaggedFraud
+step,type,amount,nameOrig,oldbalanceOrg,newbalanceOrig,nameDest,oldbalanceDest,newbalanceDest,isFraud,isFlaggedFraud
 1	PAYMENT	9839.64	C1231006815	170136	160296.36	M1979787155	0	0	0	0
 1	PAYMENT	1864.28	C1666544295	21249	19384.72	M2044282225	0	0	0	0
 1	TRANSFER	181	C1305486145	181	0	C553264065	0	0	1	0
